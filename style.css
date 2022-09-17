@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    text-shadow: 1px 1px 1px black;
+    color: purple
+}
+
+table {
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    background-image: linear-gradient(to left, rgb(187, 146, 226), white);
+    box-shadow: 5px 5px 5px gray;
+}
+
+th{
+    background-color: purple;
+    color: white;
+}
+td, th {
+    border: 2px solid black;
+    padding-left: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
